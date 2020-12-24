@@ -6,6 +6,8 @@
 * Variant: [1](../variants/variant01.md)
 * Solution: [./top](./top)
 ***
+!!Code takes a long time to run. Please,can you wait a little bit, i'll be really thankful. I don't know why, maybe it's just my computer!!
+***
 ## Sort function
 ***
 * ```Sort(){ for line in "${!array[@]}"; do echo $line' - '${array[$line]}$'\n';done | sort -rn -k3 | head -$n;}``` : Parse array and sort output in the end using ```sort```. ```-k3``` means sort by third element. In our case it is value in key-value pair. ```head -$n``` returns only first *n* lines of output

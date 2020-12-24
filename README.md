@@ -6,7 +6,7 @@
 * Variant: [1](../variants/variant01.md)
 * Solution: [./top](./top)
 ***
-!!Code takes a long time to run. Please,can you wait a little bit, i'll be really thankful. I don't know why, maybe it's just my computer!!
+!!Code takes a long time to run. Please,can you wait a little bit.Thank you !!
 ***
 ## Sort function
 ***
